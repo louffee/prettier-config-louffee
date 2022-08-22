@@ -6,7 +6,7 @@
   "repository": "git@github.com:louffee/prettier-config-louffee.git",
   "author": "Leonardo Lemos <leo.lemos.ds@louffee.co>",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "devDependencies": {
     "@changesets/cli": "^2.24.3",
     "prettier": "*"
