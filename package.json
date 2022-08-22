@@ -1,0 +1,17 @@
+{
+  "name": "prettier-config-louffee",
+  "version": "0.1.0",
+  "description": "The Prettier configuration used in all projects @ Louffee.",
+  "main": ".prettierrc.js",
+  "repository": "git@github.com:louffee/prettier-config-louffee.git",
+  "author": "Leonardo Lemos <leo.lemos.ds@louffee.co>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@changesets/cli": "^2.24.3",
+    "prettier": "*"
+  },
+  "scripts": {
+    "semver": "changeset"
+  }
+}
