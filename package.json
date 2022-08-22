@@ -13,5 +13,13 @@
   },
   "scripts": {
     "semver": "changeset"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "louffee",
+    "prettier-config",
+    "prettier"
+  ]
 }
