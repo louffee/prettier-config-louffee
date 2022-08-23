@@ -4,7 +4,7 @@
 
 > **Note**: The configuration is based on the [Prettier](https://prettier.io) plugin for the IDE or code editor of your choice, and is compatible with the ESLint ecosystem present in the [NPM Package of same name](https://npmjs.com/package/prettier).
 
-[![Downloads](https://img.shields.io/npm/dm/eslint-config-louffee.svg)](https://www.npmjs.com/package/prettier-config-louffee)
+[![Downloads](https://img.shields.io/npm/dm/prettier-config-louffee.svg)](https://www.npmjs.com/package/prettier-config-louffee)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/louffee/prettier-config-louffee?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Installation
