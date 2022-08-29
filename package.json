@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-louffee",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The Prettier configuration used in all projects @ Louffee.",
   "main": ".prettierrc.js",
   "repository": "git@github.com:louffee/prettier-config-louffee.git",
