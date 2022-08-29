@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-louffee",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The Prettier configuration used in all projects @ Louffee.",
   "main": ".prettierrc.js",
   "repository": "git@github.com:louffee/prettier-config-louffee.git",
@@ -12,7 +12,8 @@
     "prettier": "*"
   },
   "scripts": {
-    "semver": "changeset"
+    "semver": "changeset",
+    "publish": "changeset publish"
   },
   "publishConfig": {
     "access": "public"
